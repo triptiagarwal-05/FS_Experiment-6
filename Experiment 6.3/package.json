@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-account-transfer-api",
+  "version": "1.0.0",
+  "description": "Node.js and MongoDB Account Transfer System without transactions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.0",
+    "dotenv": "^16.4.5"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
